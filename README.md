@@ -24,7 +24,7 @@ The project focuses on:
 
 ## 🧱 Data Warehouse Design
 
-![DWH Schema](images/architecture/dwh_schema.png)
+![DWH Schema](images/architecture/dwh_schema.jpg)
 
 ### 🔹 Dimensional Model
 - **Fact Table**
