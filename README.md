@@ -1,6 +1,4 @@
-# 📊 Data Warehouse & ETL Project  
-**Informatica PowerCenter + SQL Server**
-
+# 📊 Data Warehouse & ETL Project  **(Informatica PowerCenter + SQL Server)**
 ---
 
 ## 📌 Overview
@@ -52,7 +50,7 @@ Key features:
 - Insert & update paths handled via Router + Update Strategy
 
 
-### 🧩 Customer Dimension (SCD Type 2)
+### 🧩 Customer Dimension
 ![Customer Dimension Mapping](images/mappings/dim_customer_mapping.PNG)
 
 ---
