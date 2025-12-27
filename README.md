@@ -1,5 +1,4 @@
 # 📊 Data Warehouse & ETL Project  **(Informatica PowerCenter + SQL Server)**
----
 
 ## 📌 Overview
 This project demonstrates the design and implementation of an **enterprise-style Data Warehouse (DWH)** using **Informatica PowerCenter** for ETL and **SQL Server** as the data warehouse platform.
